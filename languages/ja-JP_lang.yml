@@ -1,0 +1,33 @@
+## This file was generated on 11/21/2022 at
+## 5:52 JST by Luxuscraft studios japan's
+## tool extract text.
+
+language: "日本語"
+language_romanji: "nihongo"
+language_eng: "japanese"
+home: "ホーム"
+button_info: "ヘルプとサポート"
+style_dialog_title: "カテゴリーを選択してください 。"
+style_dialog_message: "あなたのロリータスタイルに合ったカテゴリーをお選びください。(ハウプト部門)"
+style_dialog_sweetlolita: "Sweet Lolita"
+style_dialog_classiclolita: "Classic Lolita"
+style_dialog_gothiclolita: "Gothic Lolita"
+server_loading_request: "サーバーから情報を読み込んでいます。しばらくお待ちください。"
+server_loading_done: "読み込みが完了しました。"
+
+## App info section
+activity_title: "インフォメーション"
+page_title: "インフォメーション"
+about_app_title: "このアプリについて"
+about_app_developer: "アプリ開発者 ⇒ "
+about_app_developer_name: "ジャスティン"
+about_app_studio: "開発チーム ⇒"
+about_app_studio_name: "Luxuscraft studios japan"
+about_app_version: "アプリバージョン⇒"
+about_app_version_code: "1.0"
+disclaimer_title: "免責事項"
+disclaimer_message: "使用されるショップとは提携関係になく、報酬も発生しません。このショップを利用するのは、良い経験があるからです。- オペレーターと連絡が取れない"
+feedback_title: "フィードバック"
+feedback_mesaage: "改善点を提案したい？メールやGoogle Playのレビューを書いたり、スタジオの公式Discordに参加してください。"
+feedback_sendmail_button: "メール送信"
+feedback_discord_button: "Discord"
